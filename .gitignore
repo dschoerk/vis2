@@ -1,0 +1,13 @@
+*~
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.toc
+*.user
+thumbs.db
+build_glfw
+build
+build-MSVC
